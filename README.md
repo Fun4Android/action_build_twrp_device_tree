@@ -1,3 +1,26 @@
+# TWRP Device Tree Generator
+
+How to use this tool?
+
+1. First of all, you need to get your device any bootable system
+boot.img AB partition
+recovery.img All partitions except AB.
+
+3. fork this repository to your username
+
+4. Upload recovery.img or boot.img to a location that can provide a direct link to download, here I recommend uploading the img file directly to this repository, then click in and click view raw to get the direct link
+
+5. Click actions - make twrp device - run workflow, then enter the direct link you just obtained in the link box.
+
+6. Click 'Run workflow' to start running after you finish filling in the link box.
+Compile result
+You can download it from Release
+
+Can't read the tutorial?
+Take a look at the github tutorial for compiling twrp next door, it's pretty much the same as this one!
+
+
+
 # TWRP Device Tree生成工具
 - 这个工具怎么用？
 - 1.首先你要搞到你的设备任意一个可以开机系统的
